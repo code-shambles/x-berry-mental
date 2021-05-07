@@ -24,5 +24,8 @@
     "branches": [
       "main"
     ]
+  },
+  "dependencies": {
+    "yargs": "^16.2.0"
   }
 }
