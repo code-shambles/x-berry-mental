@@ -4,6 +4,7 @@
   "description": "A berry way to get familiar with semantic-release and conventional changelog.",
   "main": "index.js",
   "scripts": {
+    "cz": "git-cz",
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
   },
