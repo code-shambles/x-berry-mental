@@ -1,19 +1,28 @@
 {
   "name": "x-berry-mental",
-  "version": "1.0.3",
+  "version": "0.0.0-semantically-released",
   "description": "A berry way to get familiar with semantic-release and conventional changelog.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/code-shambles/x-berry-mental.git"
+    "url": "https://github.com/code-shambles/x-berry-mental.git"
   },
   "author": "Sebastian Eck <sebastian@eck.codes> (https://eck.codes/)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/code-shambles/x-berry-mental/issues"
   },
-  "homepage": "https://github.com/code-shambles/x-berry-mental#readme"
+  "homepage": "https://github.com/code-shambles/x-berry-mental#readme",
+  "devDependencies": {
+    "semantic-release": "^17.4.2"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
 }
