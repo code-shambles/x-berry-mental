@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/code-shambles/x-berry-mental#readme",
   "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^17.4.2"
   },
   "release": {
@@ -27,5 +28,10 @@
   },
   "dependencies": {
     "yargs": "^16.2.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
