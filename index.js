@@ -73,8 +73,10 @@ function pickGum(traitName) {
 
 traits.forEach(pickGum)
 
-resultGums.sort((resultGum) => resultGum.matchQuality)
+const resultGumsSorted = resultGums.sort((resultGumA, resultGumB) =>
+  resultGumA.matchQuality > resultGumB.matchQuality ? -1 : 1
+)
 
 console.log("\n-----------------------------------------")
 console.log("Taste these berry delicious fruit gums!\n")
-console.log(resultGums)
+console.log(resultGumsSorted)
