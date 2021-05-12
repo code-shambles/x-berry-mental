@@ -6,6 +6,7 @@ const cranberry = require("./cranberry.js")
 const gooseberry = require("./gooseberry.js")
 const kiwi = require("./kiwi.js")
 const raspberry = require("./raspberry.js")
+const strawberry = require("./strawberry.js")
 const watermelon = require("./watermelon.js")
 
 module.exports = {
@@ -17,5 +18,6 @@ module.exports = {
   gooseberry,
   kiwi,
   raspberry,
+  strawberry,
   watermelon,
 }
