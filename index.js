@@ -38,7 +38,7 @@ const argv = yargs(hideBin(process.argv))
     type: "string",
   })
   .option("surface", {
-    alias: "u",
+    alias: "x",
     description: "Select by surface structure",
     choices: ["bubbly", "bumpy", "smooth"],
     type: "string",
