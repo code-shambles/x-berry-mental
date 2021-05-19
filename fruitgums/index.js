@@ -1,4 +1,5 @@
 const blackberry = require("./blackberry.js")
+const blackCurrant = require("./black-currant.js")
 const cranberry = require("./cranberry.js")
 const gooseberry = require("./gooseberry.js")
 const kiwi = require("./kiwi.js")
@@ -10,6 +11,7 @@ const watermelon = require("./watermelon.js")
 
 module.exports = {
   blackberry,
+  blackCurrant,
   cranberry,
   gooseberry,
   kiwi,

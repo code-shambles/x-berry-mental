@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/code-shambles/x-berry-mental/compare/v2.4.0...v2.5.0) (2021-05-19)
+
+
+### Features
+
+* add black currant ([5b173e0](https://github.com/code-shambles/x-berry-mental/commit/5b173e083a654cac7cd25925438fa497b0d38b69))
+
 # [2.4.0](https://github.com/code-shambles/x-berry-mental/compare/v2.3.0...v2.4.0) (2021-05-19)
 
 
