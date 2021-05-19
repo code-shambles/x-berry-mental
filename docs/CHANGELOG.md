@@ -1,3 +1,10 @@
+# [2.4.0](https://github.com/code-shambles/x-berry-mental/compare/v2.3.0...v2.4.0) (2021-05-19)
+
+
+### Features
+
+* support red currant ([6ddd66b](https://github.com/code-shambles/x-berry-mental/commit/6ddd66b1d247565d48890bf92117c20cecf27e7d))
+
 # [2.3.0](https://github.com/code-shambles/x-berry-mental/compare/v2.2.0...v2.3.0) (2021-05-19)
 
 
