@@ -1,3 +1,10 @@
+## [2.6.1](https://github.com/code-shambles/x-berry-mental/compare/v2.6.0...v2.6.1) (2021-05-25)
+
+
+### Bug Fixes
+
+* repair semantic-release npm ([23cb892](https://github.com/code-shambles/x-berry-mental/commit/23cb89236ff9a86e942dcabf962607e90a2d17cb))
+
 # [2.6.0](https://github.com/code-shambles/x-berry-mental/compare/v2.5.0...v2.6.0) (2021-05-25)
 
 
