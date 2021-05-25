@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/code-shambles/x-berry-mental/compare/v2.5.0...v2.6.0) (2021-05-25)
+
+
+### Features
+
+* add dingleberry ([6fd0518](https://github.com/code-shambles/x-berry-mental/commit/6fd05186a1f4f4ec685efe8c69b9af4f72b43c11))
+
 # [2.5.0](https://github.com/code-shambles/x-berry-mental/compare/v2.4.0...v2.5.0) (2021-05-19)
 
 
