@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/code-shambles/x-berry-mental/compare/v2.6.1...v2.7.0) (2021-05-26)
+
+
+### Features
+
+* **berries:** remove dingleberry ([44b6600](https://github.com/code-shambles/x-berry-mental/commit/44b6600b1f170911c8986f2840d0865f2a8c80f1))
+
 ## [2.6.1](https://github.com/code-shambles/x-berry-mental/compare/v2.6.0...v2.6.1) (2021-05-25)
 
 
